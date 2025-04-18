@@ -1,0 +1,2 @@
+# PDF_to_Word_rasmni_ham_matnini_oladi
+Pdfni_wordga_aylantiruvchi dastur. Dastur ramsdagi matni ham wordga aylantiradi
